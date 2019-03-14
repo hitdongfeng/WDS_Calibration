@@ -146,7 +146,5 @@ int main(int argc, char* argv[])
 
 	printf("successful!\n");
 	getchar();
-	getchar();
-	getchar();
 	return 0;
 }
